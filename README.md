@@ -1,0 +1,2 @@
+# ViewFlipperDemo
+使用ViewFlipper实现屏幕切换动画效果
